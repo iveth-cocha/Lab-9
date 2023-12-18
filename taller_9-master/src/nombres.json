@@ -1,0 +1,51 @@
+[
+    {
+    "Nombre": "Jhordy Aguas",
+    "Carrera": "Desarrollo de software",
+    "Edad": "21",
+    "Correo": "jhordy.aguas@epn.edu.ec"
+    },
+    {
+    "Nombre": "Melani Barrera",
+    "Carrera": "Desarrollo de software",
+    "Edad": "21",
+    "Correo": "melani.barrera@epn.edu.ec"
+    },
+    {
+    "Nombre": "Dennis Cataña",
+    "Carrera": "Desarrollo de software",
+    "Edad": "20",
+    "Correo": "dennis.cataña@epn.edu.ec"
+    },
+    {
+    "Nombre": "Iveth Cocha",
+    "Carrera": "Desarrollo de software",
+    "Edad": "22",
+    "Correo": "iveth.cocha@epn.edu.ec"
+    },
+    {
+    "Nombre": "David Lascano",
+    "Carrer": "Desarrollo de software",
+    "Edad": "21",
+    "Correo": "David.lascano@epn.edu.ec"
+    },
+    {
+    "Nombre": "Brandon Sandoval",
+    "Carrera": "Desarrollo de software",
+    "Edad": "20",
+    "Correo": "brandon.sandoval@epn.edu.ec"
+    },
+    {
+    "Nombre": "Washington Villares",
+    "Carrera": "Desarrollo de software",
+    "Edad": "20",
+    "Correo": "washington.villares@epn.edu.ec"
+    },
+    {
+    "Nombre": "Andrew Vilcacundo",
+    "Carrer": "Desarrollo de software",
+    "Edad": "20",
+    "Correo": "andrew.vilcacundo@epn.edu.ec"
+  }
+    
+    ]
